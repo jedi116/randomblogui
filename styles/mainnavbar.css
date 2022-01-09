@@ -1,0 +1,24 @@
+.main-header{
+    padding-top:20px;
+    padding-bottom: 20px;
+    background-color: #116466;
+    border-radius:10px;
+    position: sticky;
+    display: flex;
+    align-items: flex-end;
+}
+
+.main-header .main-header-nav-links .main-header-single-link{
+    text-decoration: none;
+    color:white;
+    padding-left: 2em;
+}
+
+.main-header .main-header-logo {
+    cursor: pointer;
+}
+
+.main-header .main-header-nav-links .main-header-single-link:hover{
+    color:#d9b08c ;
+
+}

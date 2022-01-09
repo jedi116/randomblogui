@@ -1,0 +1,16 @@
+.hero-section-container{
+    background: url(../public/herosection.svg);
+    height:500px;
+    width:100%;
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0, 0.2);
+    object-fit:fill;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    color:white;
+    padding:0px;
+    
+}
